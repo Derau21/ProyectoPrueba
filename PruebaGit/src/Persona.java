@@ -7,10 +7,6 @@ public class Persona {
 		return edad;
 	}
 
-	public void setEdad(int edad) {
-		this.edad = edad;
-	}
-
 	public Persona(int edad) {
 		super();
 		this.edad = edad;
